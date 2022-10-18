@@ -1,2 +1,2 @@
 # Lenda
-It's an all-in-one hotel booking app. 
+It's an all-in-one responsive hotel booking app. 
