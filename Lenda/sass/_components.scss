@@ -223,7 +223,7 @@
   overflow: hidden;
 
   &__item {
-    padding: 1rem;
+    padding: 0.5rem;
     height: 30rem;
     position: absolute;
     top: 0;
@@ -264,11 +264,11 @@
     }
 
     &--right {
-      right: 2.5%;
+      right: 2%;
       translate: 50% -50%;
     }
     &--left {
-      left: 2.5%;
+      left: 2%;
       translate: -50% -50%;
     }
   }
